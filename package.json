@@ -10,7 +10,7 @@
   "license": "ISC",
   "dependencies": {
     "deep-equal": "^1.0.1",
-    "log4js": "^4.1.0",
+    "log4js": "^6.4.0",
     "mkdirp": "^0.5.1",
     "msnodesqlv8": "^0.7.1",
     "mssql": "^5.1.0"
